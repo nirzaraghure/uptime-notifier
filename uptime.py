@@ -6,10 +6,10 @@ from datetime import datetime
 # 👇 Replace this with your website or backend URL
 url = "https://antiq-frontend.onrender.com"  
 
-# 👇 Enter your Gmail and app password
+
 sender_email = "nehaghure5@gmail.com"  
 receiver_email = "nirzaraghure5@gmail.com"
-email_password = "rmgi csuf rbgv badg"  # Use Gmail App Password 
+email_password = "rmgi csuf rbgv badg" 
 
 def send_alert(message):
     subject = "🔴 ALERT: Website Down"
