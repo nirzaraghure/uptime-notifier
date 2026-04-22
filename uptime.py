@@ -9,7 +9,7 @@ url = "https://antiq-frontend.onrender.com"
 
 sender_email = "nehaghure5@gmail.com"  
 receiver_email = "nirzaraghure5@gmail.com"
-email_password = "rmgi csuf rbgv badg" 
+email_password = "......" 
 
 def send_alert(message):
     subject = "🔴 ALERT: Website Down"
